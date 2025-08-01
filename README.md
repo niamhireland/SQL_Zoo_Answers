@@ -13,5 +13,5 @@ WHERE name = 'Germany';
 ```bash
 SELECT name, population
 FROM world
-WHERE name = 'Sweden', 'Norway', 'Denmark';                 
+WHERE name IN ('Sweden', 'Norway', 'Denmark');                 
 ```
