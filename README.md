@@ -1,17 +1,5 @@
 # Solutions for SQL Zoo
 
-## SELECT basics 
+This a collection of my answers to [SQL Zoo exercises](https://sqlzoo.net/wiki/SQL_Tutorial). 
+Why did I make it? Well, it's a handy way for me to track what I have done and look back on previous answers, if I need to. 
 
-1. Show the population of Germany.
-```bash
-SELECT population
-FROM world
-WHERE name = 'Germany';                 
-```
-
-2. Show the name and population for 'Sweden', 'Norway', 'Denmark'.
-```bash
-SELECT name, population
-FROM world
-WHERE name IN ('Sweden', 'Norway', 'Denmark');                 
-```
