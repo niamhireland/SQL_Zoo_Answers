@@ -16,6 +16,8 @@ All the exercises are laid out sequentially and I've added a screenshot of the t
 
 - [Exercise 2: Select from world](https://github.com/niamhireland/SQL_Zoo_Answers/blob/main/2.%20select_from_world.sql)
 
-## 🏆 Exercises with the 'Nobel Prize Winners' table
+## 🏆 Exercises with the 'Nobel Prizes' table
 
 <img src="images/nobel.png" alt="Nobel Prize Winners" width="500"/>
+
+- - [Exercise 3: Select from Nobel Prize Winners](https://github.com/niamhireland/SQL_Zoo_Answers/blob/main/3.%20nobel.sql) 
