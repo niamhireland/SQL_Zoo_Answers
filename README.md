@@ -22,4 +22,10 @@ All the exercises are laid out sequentially and I've added a screenshot of the t
 
 <img src="images/nobel.png" alt="Nobel Prize Winners" width="500"/>
 
-- [Exercise 3: Select from Nobel Prize Winners](https://github.com/niamhireland/SQL_Zoo_Answers/blob/main/3.%20nobel.sql) 
+- [Exercise 3: Select from Nobel Prize Winners](https://github.com/niamhireland/SQL_Zoo_Answers/blob/main/3.%20nobel.sql)
+
+## ⚽ Exercises with the 'Soccer Games' table
+
+<img src="images/game.png" alt="Soccer Games Table" width="500"/>
+
+- [Exercise 6: The JOIN operation](https://github.com/niamhireland/SQL_Zoo_Answers/blob/main/6.%20join_operation.sql)
