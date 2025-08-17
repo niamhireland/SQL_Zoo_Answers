@@ -18,6 +18,8 @@ All the exercises are laid out sequentially and I've added a screenshot of the t
 
 - [Exercise 4: Select within select](https://github.com/niamhireland/SQL_Zoo_Answers/blob/main/4.%20select_within_select.sql)
 
+- [Exercise 5: Sum and Count](https://github.com/niamhireland/SQL_Zoo_Answers/blob/main/5.%20sum_and_count.sql)
+
 ## 🏆 Exercises with the 'Nobel Prizes' table
 
 <img src="images/nobel.png" alt="Nobel Prize Winners" width="500"/>
