@@ -34,4 +34,6 @@ All the exercises are laid out with their corresponding table, to help understan
 
 ## 🎭 Exercises with the 'Movies' table
 
+<img src="images/movies.png" alt="Movies Table" width="500"/>
+
 - [Exercise 7: More JOIN operations](https://github.com/niamhireland/SQL_Zoo_Answers/blob/main/7.%20more_join_operations.sql)
