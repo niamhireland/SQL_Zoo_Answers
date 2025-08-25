@@ -37,3 +37,9 @@ All the exercises are laid out with their corresponding table, to help understan
 <img src="images/movies.png" alt="Movies Table" width="500"/>
 
 - [Exercise 7: More JOIN operations](https://github.com/niamhireland/SQL_Zoo_Answers/blob/main/7.%20more_join_operations.sql)
+
+## 👩‍🏫 Exercises with the 'Teachers' table 
+
+<img src="images/teachers.png" alt="Teachers Table" width="500"/>
+
+- [Exercise 8: Using NULL](https://github.com/niamhireland/SQL_Zoo_Answers/blob/main/8.%20using_null.sql)
