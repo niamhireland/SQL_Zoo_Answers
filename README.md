@@ -43,3 +43,9 @@ All the exercises are laid out with their corresponding table, to help understan
 <img src="images/teachers.png" alt="Teachers Table" width="500"/>
 
 - [Exercise 8: Using NULL](https://github.com/niamhireland/SQL_Zoo_Answers/blob/main/8.%20using_null.sql)
+
+## 🧑‍🎓 Exercises with the 'National Student Survey' table 
+
+<img src="images/nss.png" alt="NSS Table" width="500"/>
+
+- [Exercise 8+: Numeric examples](https://github.com/niamhireland/SQL_Zoo_Answers/blob/main/8%2B.%20numeric_examples.sql)
