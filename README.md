@@ -49,3 +49,9 @@ All the exercises are laid out with their corresponding table, to help understan
 <img src="images/nss.png" alt="NSS Table" width="500"/>
 
 - [Exercise 8+: Numeric examples](https://github.com/niamhireland/SQL_Zoo_Answers/blob/main/8%2B.%20numeric_examples.sql)
+
+## 🗳️ Exercises with the 'Scottish General Election' table 
+
+<img src="images/scottish_ge.png" alt="NSS Table" width="500"/>
+
+- [Exercise 9- : Window functions](https://github.com/niamhireland/SQL_Zoo_Answers/blob/main/9-.%20window_functions.sql)
